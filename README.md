@@ -13,3 +13,5 @@ Week 4: Bits, Bytes and Binary
 Week 5: Snake (Part 1)
 
 Week 6: ^ Week 5 continued
+
+Week 7: Virtual Environments and Python's Debugging Tool
