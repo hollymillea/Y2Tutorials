@@ -15,3 +15,9 @@ Week 5: Snake (Part 1)
 Week 6: ^ Week 5 continued
 
 Week 7: Virtual Environments and Python's Debugging Tool
+
+Week 8: Interview Preparation (Discussions)
+
+Week 9: Interview Preparation (Coding)
+
+Week 10: Introduction to LaTeX
