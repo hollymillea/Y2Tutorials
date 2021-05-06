@@ -1,0 +1,34 @@
+%%%%%%%%%%%%%%%%% Colours %%%%%%%%%%%%%%%%%%%%% 
+\usepackage{xcolor}
+\definecolor{mylinkcolor}{rgb}{0, 0.5, 0.2}
+\definecolor{codegreen}{rgb}{0,0.5,0}
+\definecolor{codegrey}{rgb}{0.5,0.5,0.5}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.95}
+\definecolor{codeblue}{rgb}{0,0,1}
+\definecolor{codeorange}{rgb}{0.8,0.3,0}
+\definecolor{linecolour}{rgb}{0.9 0.5 0.2}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%% Code %%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{listings}
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{codeblue},
+    numberstyle=\tiny\color{codegrey},
+    stringstyle=\color{codeorange},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+\lstset{style=mystyle}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
